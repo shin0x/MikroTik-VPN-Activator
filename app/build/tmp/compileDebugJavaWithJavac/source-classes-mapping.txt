@@ -1,0 +1,7 @@
+me/jonahstrotmann/vpnactivator/MainActivity.java
+ me.jonahstrotmann.vpnactivator.MainActivity
+ me.jonahstrotmann.vpnactivator.MainActivity$1
+ me.jonahstrotmann.vpnactivator.MainActivity$2
+ me.jonahstrotmann.vpnactivator.MainActivity$3
+me/jonahstrotmann/vpnactivator/BuildConfig.java
+ me.jonahstrotmann.vpnactivator.BuildConfig

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable-v24_nl.png.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/drawable-v24/nl.png"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable_on.png.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/drawable/on.png"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable-v24_us.jpg.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/drawable-v24/us.jpg"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable_off.png.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/drawable/off.png"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/mnt/5ad27d51-5210-4f91-94e7-e0d1ce7e3a8f/Dokumente/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

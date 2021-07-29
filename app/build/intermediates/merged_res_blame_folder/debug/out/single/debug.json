@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable_on.png.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/drawable/on.png"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable-v24_us.jpg.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/drawable-v24/us.jpg"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable-v24_nl.png.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/drawable-v24/nl.png"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable_off.png.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/drawable/off.png"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/shinox/Documents/Programming/Android/MikroTikVPN/app/src/main/res/drawable/ic_launcher_background.xml"
+    }
+]
